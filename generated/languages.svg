@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 60.453%;" class="progress-item"></span><span style="background-color: #844FBA;width: 22.713%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 12.637%;" class="progress-item"></span><span style="background-color: #3178c6;width: 2.963%;" class="progress-item"></span><span style="background-color: #427819;width: 1.233%;" class="progress-item"></span>
+<span style="background-color: #3572A5;width: 60.456%;" class="progress-item"></span><span style="background-color: #844FBA;width: 22.709%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 12.638%;" class="progress-item"></span><span style="background-color: #3178c6;width: 2.963%;" class="progress-item"></span><span style="background-color: #427819;width: 1.233%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">60.45%</span>
+<span class="percent">60.46%</span>
 </li>
 
 
